@@ -1,4 +1,4 @@
-[{
+{"partners":[{
         "first_name": "Marcile",
         "last_name": "Weatherley",
         "email": "mweatherley0@tripadvisor.com",
@@ -199,3 +199,4 @@
         ]
     }
 ]
+}
