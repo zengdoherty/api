@@ -123,10 +123,10 @@
         "last_name": "Seiler",
         "email": "pseilerc@harvard.edu",
         "company": "Topicblab",
-        "dates": {
-            "date1": "2019-07-27T23:56:11Z",
-            "date2": "2019-08-20T10:13:41Z"
-        }
+        "dates": [
+          "2019-07-27T23:56:11Z",
+          "2019-08-20T10:13:41Z"
+        ]
     },
     {
         "first_name": "Derrik",
